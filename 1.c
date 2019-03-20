@@ -1,1 +1,5 @@
-sldkfklfnsdfnsdm,fnsd,mf
+#include<stdio.h>
+int main()
+{
+printf("hi good noon\n");
+}
